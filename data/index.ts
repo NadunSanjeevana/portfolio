@@ -49,7 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title:
+      "Currently explore a Advanced Computer Vision solution to segment paddy fields and predict paddy crop yield ",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -205,13 +206,38 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/NadunSanjeevana",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "https://github.com/NadunSanjeevana",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/nadun-sanjeevana/",
+  },
+];
+
+export const certificates = [
+  {
+    name: "Supervised Machine Learning: Regression and Classification",
+    description:
+      "Comprehensive course on supervised learning techniques via Coursera.",
+    image: "/c1.png",
+    link: "https://www.coursera.org/account/accomplishments/certificate/ZJEGXKKPRSE3",
+  },
+  {
+    name: "Convolutional Neural Networks",
+    description: "Learned advanced CNN concepts via Coursera.",
+    image: "/c1.png",
+    link: "https://www.coursera.org/account/accomplishments/certificate/ZJEGXKKPRSE3",
+  },
+  {
+    name: "Python for Beginners",
+    description: "Acquired foundational Python programming skills.",
+    image: "/c2.png",
+    link: "https://www.coursera.org/account/accomplishments/certificate/27BKXENLSNMD",
   },
 ];
