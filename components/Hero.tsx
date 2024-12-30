@@ -1,4 +1,4 @@
-import { FaLocationArrow } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa";
 
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
@@ -60,10 +60,14 @@ const Hero = () => {
             Hi! I&apos;m Nadun Sanjeevana, a passionate Software Engineer.
           </p>
 
-          <a href="#about">
+          <a
+            href="https://github.com/NadunSanjeevana"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <MagicButton
               title="Show my work"
-              icon={<FaLocationArrow />}
+              icon={<FaGithub />}
               position="right"
             />
           </a>
