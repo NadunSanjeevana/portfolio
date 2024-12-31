@@ -148,21 +148,21 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Mobile App Development",
+    desc: "Designed and developed mobile app for Android platform using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Machine Vision Researcher",
+    desc: "Working on explore new advance machine vision methods.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Frontend Developer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
@@ -177,8 +177,8 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
-    link: "https://github.com/NadunSanjeevana",
+    img: "/medium.svg",
+    link: "https://medium.com/@nadunsanjeevana2001",
   },
   {
     id: 3,

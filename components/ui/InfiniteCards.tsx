@@ -232,7 +232,7 @@ export const InfiniteMovingCards = ({
               <img
                 src={item.image}
                 alt={item.name}
-                className="w-full h-40 object-cover rounded-md mb-4"
+                className="w-full h-60 object-cover rounded-md mb-4"
               />
               <a
                 href={item.link}
